@@ -1,6 +1,6 @@
 <h1 align="center">Hi Githubber, I'm Thomas</h1>
 <h3 align="center">Self-taught developer who wanted to land a dream job in programming</h3>
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="Coding" width="500">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="Coding" width="300">
 
 
 - 🌱 I’m currently learning **Python, HTML, CSS**
