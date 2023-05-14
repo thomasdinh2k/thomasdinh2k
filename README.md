@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Self-taught developer in Vietnam</h3>
+<h1 align="center">Hi Githubber, I'm Thomas</h1>
+<h3 align="center">Self-taught developer who wanted to land a dream job in programming</h3>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" alt="Coding" width="500">
+
 
 - 🌱 I’m currently learning **Python, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomasdinh2k](https://github.com/thomasdinh2k)
 
-- 📫 How to reach me **work.dnstung@gmail.com**
+- 📫 Contact me at **work.dnstung@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
