@@ -12,7 +12,7 @@
 
 - 📫 Contact me at **work.dnstung@gmail.com**
 
-- ⚡ Fun fact **I'm just getting started**
+- ⚡ Fun fact **I'm lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
